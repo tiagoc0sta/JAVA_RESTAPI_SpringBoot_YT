@@ -1,4 +1,4 @@
-# REST API  -  Java | 
+# REST API  -  Java 
 
 REST API - Building a REST API in JAVA SpringBoot and perform CRUD operations interacting
 with MySQL ans Postman
